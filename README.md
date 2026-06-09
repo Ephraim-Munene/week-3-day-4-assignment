@@ -18,7 +18,7 @@ Commit	Description	Branch
 8	Add social media links to footer	`feature/footer`
 Git Log Screenshot
 Paste your screenshot below:
-![Git Log --oneline --graph --all](images/image.png)
+![Git Log --oneline --graph --all](images/image1.png)
 
 ---
 Exercise completed on June 9, 2026
